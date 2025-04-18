@@ -1,9 +1,12 @@
 npm i
 
-npm install tailwindcss @tailwindcss/vite
+tailwund já está configurado
+
+// npm install tailwindcss @tailwindcss/vite
+
 npm audit fix --force
 
-recharts.org/en-US
+Site: recharts.org/en-US
 npm i recharts
 
 git init
@@ -12,3 +15,12 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/bruno-bg/condoplanner.git
 git push -u origin main
+
+
+git add .
+git commit -m " "
+git push -u origin main
+
+git pull
+
+Vídeo: 0h0m0s
